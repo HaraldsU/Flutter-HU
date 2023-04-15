@@ -1,16 +1,4 @@
-# testin
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# INFORMATION
+- ChiliLabs Flutter asignment made by Haralds Upītis.
+- The project's functionality mainly consists of the giphy-picker dependency (https://github.com/firstfloorsoftware/giphy_picker) slightly edited by the author (https://github.com/HaraldsU/giphy-picker)
+- All the basic requierments have been completed.
